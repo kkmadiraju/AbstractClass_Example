@@ -1,0 +1,30 @@
+﻿
+=========================
+*Shows abstraction
+*Shows abstract vs concrete methods
+*Shows polymorphism
+*And it’s funny enough that the interviewer remembers you
+==================
+
+RealWorld Example:
+🎯 Why this is a perfect real‑world BFSI example
+Abstract class models core banking product hierarchy
+
+Shows common behavior (statement printing)
+
+Shows product‑specific rules (min balance, overdraft)
+
+Matches real RBI compliance logic
+
+Easy to extend (RD, FD, NRE, LoanAccount, etc.)	
+=====================================
+🎯 Why this example works for Cloud Architects
+Models multi‑cloud resource abstraction
+
+Shows common governance (tagging)
+
+Shows provider‑specific provisioning logic
+
+Matches real IaC patterns (Terraform modules, ARM/Bicep, CloudFormation)
+
+Easy to extend (AKS, S3, BigQuery, Databricks workspace, etc.)
